@@ -4,8 +4,6 @@
 
 # Integrantes:
 
-cc
-
 > ######  Perfil: [@BryanArmando](https://github.com/BryanArmando)
 
 > ######  **Colaborador 2:** Edison Javier Yánez Guaña
