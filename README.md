@@ -4,6 +4,8 @@
 
 # Integrantes:
 
+> ######  **Colaborador 1:** Bryan Armando Quisaguano Casa
+
 > ######  Perfil: [@BryanArmando](https://github.com/BryanArmando)
 
 > ######  **Colaborador 2:** Edison Javier Yánez Guaña
