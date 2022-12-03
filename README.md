@@ -15,4 +15,4 @@
 ## Documentación :
 > ######  [Video de Implementación](https://www.youtube.com/watch?v=vWYMML_eIUE)
 
-> ######  **Se recomienda colocar a máxima calidad el video para obserbar mejor la presentación** 
+> ######  **Se recomienda colocar a máxima calidad el video para observar mejor la presentación** 
