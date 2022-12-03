@@ -2,9 +2,9 @@
 
 ## CHALLENGE CONSUL - Grupo 1
 
-# Integrantes>
+# Integrantes:
 
-> ######  **Colaborador 1:** Bryan Armando Quisaguano Casa
+cc
 
 > ######  Perfil: [@BryanArmando](https://github.com/BryanArmando)
 
@@ -14,3 +14,5 @@
 
 ## Documentación :
 > ######  [Video de Implementación](https://www.youtube.com/watch?v=vWYMML_eIUE)
+
+> ######  **Se recomienda colocar a máxima calidad el video para obserbar mejor la presentación** 
